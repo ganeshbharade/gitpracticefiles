@@ -1,0 +1,7 @@
+git init
+git status
+ls
+git add . all files at once stage 
+git add file_name to stage file
+git rm --cached filename to untract file move back from stage to untrack
+git restore filename to restore deleted file
