@@ -7,3 +7,4 @@ git rm --cached filename to untract file move back from stage to untrack
 git restore filename to restore deleted file
 git fork github to github copy click on fork
 git clone copied url git to local system 
+git remote set-url origin https://token@github.com and your url
